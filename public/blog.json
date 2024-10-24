@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/fXQKfq6/2.png",
+      "title": "Understanding JavaScript Closures",
+      "author_img": "https://i.ibb.co.com/5KsvvZD/boy1.png",
+      "author": "Jane Doe",
+      "posted_date": "2024-10-25",
+      "reading_time": 5,
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/87GQmFk/1.jpg",
+      "title": "Mastering Tailwind CSS",
+      "author_img": "https://i.ibb.co.com/5KsvvZD/boy1.pnghttps://i.ibb.co.com/4TqFSpd/boy2.jpg",
+      "author": "John Smith",
+      "posted_date": "2024-10-20",
+      "reading_time": 8,
+      "hashtags": ["#TailwindCSS", "#CSS", "#Frontend"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/dKWqsDd/3.png",
+      "title": "Responsive Design Tips for Mobile",
+      "author_img": "https://i.ibb.co.com/Jv0JRCN/girl1.jpg",
+      "author": "Alice Johnson",
+      "posted_date": "2024-10-18",
+      "reading_time": 7,
+      "hashtags": ["#ResponsiveDesign", "#Mobile", "#UX"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/LRYqTxQ/4.jpg",
+      "title": "A Guide to CSS Grid Layout",
+      "author_img": "https://i.ibb.co.com/pr2rHwq/girl2.jpg",
+      "author": "Robert Brown",
+      "posted_date": "2024-10-15",
+      "reading_time": 10,
+      "hashtags": ["#CSSGrid", "#CSS", "#WebDesign"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/LRYqTxQ/4.jpg",
+      "title": "Building Interactive UIs with React",
+      "author_img": "https://i.ibb.co.com/DgJmPQm/download.jpg",
+      "author": "Emily Clark",
+      "posted_date": "2024-10-10",
+      "reading_time": 6,
+      "hashtags": ["#ReactJS", "#JavaScript", "#UI"]
+    }
+  ]
+  
